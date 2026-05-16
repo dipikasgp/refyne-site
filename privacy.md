@@ -41,7 +41,7 @@ Because Polishr does not have user accounts and does not retain submitted text, 
 
 ## Contact
 
-Email: **polishr.support@gmail.com**
+Email: **dipikasengupta3012@gmail.com**
 
 ## Changes to this policy
 
