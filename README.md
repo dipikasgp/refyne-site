@@ -1,5 +1,5 @@
-# polishr-site
+# refyne-site
 
-Public site for [Polishr](https://chrome.google.com/webstore) — Chrome extension that polishes rough writing into clear, professional communication.
+Public site for [Refyne](https://chrome.google.com/webstore) — Chrome extension that rewrites rough writing into clear, professional communication.
 
 - [Privacy Policy](./privacy.md)
