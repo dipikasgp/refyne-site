@@ -21,7 +21,7 @@ We do **not** collect, transmit, or store:
 
 ## How data is used
 
-The selected text you submit is sent over HTTPS to the Refyne backend at `https://polishr.duckdns.org`. The backend uses a large language model (LLM) to generate a polished rewrite, which is streamed back to the extension and displayed in a panel on the page.
+The selected text you submit is sent over HTTPS to the Refyne backend at `https://api.refyne.fyi`. The backend uses a large language model (LLM) to generate a polished rewrite, which is streamed back to the extension and displayed in a panel on the page.
 
 The selected text is processed only to generate the rewrite. It is not used for advertising, sold to third parties, used to train models, or analyzed for any other purpose.
 
